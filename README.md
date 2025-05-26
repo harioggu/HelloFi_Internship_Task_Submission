@@ -1,10 +1,10 @@
-# 🚀 ReCommerce - Mobile Device Marketplace
+#  ReCommerce - Mobile Device Marketplace
 
-ReCommerce is a full-stack web app for buying and selling mobile devices. It offers a secure, user-friendly platform to manage device listings, browse devices, and handle transactions seamlessly.
+I have built a simple recommerce website that evaluates devices. Initially, users can only see the list of mobile devices, and once they log in, they can get the exact value of a device based on the conditions they select.
 
 ---
 
-## 🌟 Features
+##  Features
 
 ### User Features
 - Secure user authentication with JWT  
@@ -15,11 +15,10 @@ ReCommerce is a full-stack web app for buying and selling mobile devices. It off
 ### Device Management
 - Add, update, and delete device listings  
 - View detailed device information  
-- Filter and search devices easily  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React.js (v19.1.0)  
@@ -36,7 +35,7 @@ ReCommerce is a full-stack web app for buying and selling mobile devices. It off
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v14+)  
@@ -70,6 +69,7 @@ Build and run backend:
 mvn clean install
 mvn spring-boot:run
 Deployment
+
 Frontend (Netlify)
 URL: https://statuesque-hamster-e20480.netlify.app
 

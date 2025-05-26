@@ -1,0 +1,53 @@
+# 🚀 ReCommerce - Mobile Device Marketplace
+
+ReCommerce is a full-stack web app for buying and selling mobile devices. It offers a secure, user-friendly platform to manage device listings, browse devices, and handle transactions seamlessly.
+
+---
+
+## 🌟 Features
+
+### User Features
+- Secure user authentication with JWT  
+- Register, Login & Profile management  
+- Browse, search, and filter available devices  
+- Responsive UI for desktop & mobile  
+
+### Device Management
+- Add, update, and delete device listings  
+- View detailed device information  
+- Filter and search devices easily  
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js (v19.1.0)  
+- React Router DOM (v7.6.0)  
+- Modern JavaScript (ES6+)  
+- Responsive CSS  
+- Environment-based config with `.env`  
+
+### Backend
+- Spring Boot (v3.5.0)  
+- Spring Security & JWT Authentication  
+- MongoDB (Atlas)  
+- Java 17, Maven  
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v14+)  
+- Java 17+  
+- MongoDB Atlas account  
+- Maven  
+
+---
+
+### Frontend Setup
+
+```bash git clone [your-repo-url] cd client npm install Create a .env file 
+inside the client folder with:
+REACT_APP_API_BASE_URL=http://localhost:8080x
