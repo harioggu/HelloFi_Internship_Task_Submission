@@ -9,8 +9,8 @@ I have built a simple recommerce website that evaluates devices. Initially, user
 ![Login Screenshot](screenshots_/ss2.png)
 ![Device Price Screenshot](screenshots_/ss3.png)
 ![Device Details Screenshot](screenshots_/ss4.png)
-![Final Price Screenshot](screenshots/ss5.png)
-![Backend Test Screenshot](screenshots/postman.jpg)
+![Final Price Screenshot](screenshots_/ss5.png)
+![Backend Test Screenshot](screenshots_/postman.jpg)
 ---
 
 ##  Features
