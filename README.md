@@ -2,6 +2,15 @@
 
 I have built a simple recommerce website that evaluates devices. Initially, users can only see the list of mobile devices, and once they log in, they can get the exact value of a device based on the conditions they select.
 
+**Live Demo (Frontend):** [https://statuesque-hamster-e20480.netlify.app](https://statuesque-hamster-e20480.netlify.app)  
+**Backend API:** [https://recommerce-backend-1.onrender.com](https://recommerce-backend-1.onrender.com)
+
+![Homepage Screenshot](screenshots_/ss1.png)
+![Login Screenshot](screenshots_/ss2.png)
+![Device Price Screenshot](screenshots_/ss3.png)
+![Device Details Screenshot](screenshots_/ss4.png)
+![Final Price Screenshot](screenshots/ss5.png)
+![Backend Test Screenshot](screenshots/postman.jpg)
 ---
 
 ##  Features
