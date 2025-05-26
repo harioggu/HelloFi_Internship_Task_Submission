@@ -1,0 +1,79 @@
+.mobile-listings-container {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.mobile-listings-container h1 {
+    text-align: center;
+    color: #2563EB;
+    margin-bottom: 2rem;
+}
+
+.mobile-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+    padding: 1rem;
+}
+
+.mobile-card {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.2s;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+}
+
+.mobile-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.mobile-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.mobile-card h3 {
+    padding: 1rem;
+    margin: 0;
+    color: #1F2937;
+    font-size: 1.25rem;
+}
+
+.mobile-card p {
+    padding: 0 1rem 1rem;
+    margin: 0;
+    color: #4B5563;
+    flex-grow: 1;
+}
+
+.mobile-card .price {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #2c3e50;
+    margin: 10px 0;
+}
+
+.login-prompt {
+    background: #2563EB;
+    color: white;
+    padding: 0.75rem;
+    text-align: center;
+    font-weight: 500;
+}
+
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+    font-size: 1.2rem;
+    color: #4B5563;
+} 
